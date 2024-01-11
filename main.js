@@ -1,1 +1,1 @@
-consloe.log(Hello World!!)
+consloe.log(Hello World!!);
